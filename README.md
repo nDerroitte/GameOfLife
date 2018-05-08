@@ -1,2 +1,2 @@
 # GameOfLife
-Java project made for the University of Liege.
+Java project made in orde to better learn the langage.
